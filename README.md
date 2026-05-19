@@ -16,4 +16,4 @@ I've recently deployed version 1 of my AI Resume Analyzer project! The link as w
 - I love to read, especially fantasy and romance books!
 - Fairy Tail and Haikyuu! are two of my favorite anime shows
 - I'm currently learning Japanese :)
-    - こんにちは、私イデンです。はじめまして！
+    - こんにちは、私はイデンです。はじめまして！
